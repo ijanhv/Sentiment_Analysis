@@ -20,7 +20,7 @@ emotions_emoji_dict = {
     "disgust": "🤮",
     "fear": "😨😱",
     "happy": "🤗",
-    "joy": "😂",
+    "joy": "🤗",
     "neutral": "😐",
     "sad": "😔",
     "sadness": "😔",
